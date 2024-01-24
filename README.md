@@ -2,9 +2,9 @@
 <h3 align="center">A junior frontend developer from Turkey!</h3>
 
 
-- 🌱 I’m currently learning **SASS and Next.js**
+<p align="center">- 🌱 I’m currently learning **SASS and Next.js** </p>
 
-- 📫 How to reach me **seyitbugraerden@gmail.com**
+<p align="center">- 📫 How to reach me **seyitbugraerden@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
