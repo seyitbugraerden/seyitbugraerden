@@ -23,8 +23,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.premierepro.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" alt="premiere-pro" width="40" height="40"/> </a>
   <a href="https://www.aftereffects.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/after-effects.svg" alt="after-effects" width="40" height="40"/> </a>
 
