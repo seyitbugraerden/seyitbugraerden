@@ -2,7 +2,7 @@
 <h3 align="center">A junior frontend developer from Turkey!</h3>
 
 
-<p align="center">- 🌱 I’m currently learning **SASS and Next.js** </p>
+<p align="center">- 🌱 I’m currently learning React & UI </p>
 
 <p align="center">- 📫 How to reach me **seyitbugraerden@gmail.com** </p>
 
