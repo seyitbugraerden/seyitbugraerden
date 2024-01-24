@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bugraerden/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyit_bugra_erden" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bugrakisisi/" target="blank"><img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="seyit_bugra_erden" height="40" width="40" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bugrakisisi/" target="blank"><img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="seyit_bugra_erden" height="40" width="40" /></a>
 
 </p>
 
