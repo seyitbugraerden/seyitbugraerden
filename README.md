@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 Currently working as a front-end developer at CERS SOFT.
 
 
