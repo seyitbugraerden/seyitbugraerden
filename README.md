@@ -4,7 +4,7 @@
 
 <p align="center"> 🌱 I’m currently learning Express.js & Mongodb </p>
 
-<p align="center"> 📫 How to reach me **seyitbugraerden@gmail.com** </p>
+<p align="center"> 📫 How to reach me <strong>seyitbugraerden@gmail.com</strong> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
