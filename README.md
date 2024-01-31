@@ -42,11 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
-
-
-</p>
-<br/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <p align=center>
   <div align=center>
