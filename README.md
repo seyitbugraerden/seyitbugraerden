@@ -45,10 +45,10 @@
 <h2 align="center"> Stats </h2>
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=470 height=400 src="https://streak-stats.demolab.com/?user=seyitbugraerden&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=470 height=200 src="https://streak-stats.demolab.com/?user=seyitbugraerden&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=470 height=400 src="https://github-readme-stats.vercel.app/api?username=seyitbugraerden&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=470 height=200 src="https://github-readme-stats.vercel.app/api?username=seyitbugraerden&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <div align=center>
