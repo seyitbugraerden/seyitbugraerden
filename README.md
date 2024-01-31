@@ -46,10 +46,9 @@
 <br>
 
 
-<p align=center>
-  <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=seyitbugraerden&theme=prussian&show_icons=true&hide_border=true&count_private=true" width:="50%">
-    <img width="12"/>
+<p align="center">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=seyitbugraerden&theme=prussian&show_icons=true&hide_border=true&count_private=true" width:="100px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyitbugraerden&theme=prussian&hide_border=true" width="50%">
     <br/> <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyitbugraerden&theme=react-dark&bg_color=20232a&hide_border=true" width=97%"/>
