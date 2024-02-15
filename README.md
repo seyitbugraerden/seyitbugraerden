@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Frontend Developer from Turkey!</h3>
 
 
-<p align="center"> 🌱 I’m currently learning Express.js & Mongodb </p>
+[<p align="center"> 🌱 I’m currently learning Express.js & Mongodb </p>](url)
 
 <p align="center"> 📫 How to reach me <strong>seyitbugraerden@gmail.com</strong> </p>
 
