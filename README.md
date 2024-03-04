@@ -8,8 +8,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bugraerden/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="figma logo"  /></a>
-  <img width="12" />
-<a href="https://www.instagram.com/bugrakisisi/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="figma logo"  /></a>
 
 </p>
 
@@ -35,11 +33,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="mondogb"/>
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" alt="node.js"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+   
 </div>
 <h2 align="center"> Stats </h2>
 <p align=center>
