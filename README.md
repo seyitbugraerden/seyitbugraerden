@@ -45,6 +45,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="node.js"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="node.js"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
