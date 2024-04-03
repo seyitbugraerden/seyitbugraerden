@@ -15,7 +15,7 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AUTOCAD logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
