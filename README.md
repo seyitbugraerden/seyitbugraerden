@@ -5,7 +5,7 @@
 
 <p align="center"> 📫 How to reach me <strong>seyitbugraerden@gmail.com</strong> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bugraerden/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /></a>
 
