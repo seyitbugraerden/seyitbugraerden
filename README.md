@@ -58,16 +58,5 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
    
 </div>
-<h2 align="center"> Stats </h2>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 height=200 src="https://streak-stats.demolab.com/?user=seyitbugraerden&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=seyitbugraerden&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
 </p>
   
