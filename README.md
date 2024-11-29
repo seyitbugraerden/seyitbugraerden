@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋 I am Buğra</h1>
-<h3 align="center">Full Stack Developer from Turkey!</h3>
+<h1 align="center">Hello 👋 I am Bugra</h1>
+<h3 align="center">Frontend Developer from Turkey!</h3>
 
 
 
