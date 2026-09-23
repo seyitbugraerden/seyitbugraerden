@@ -1,61 +1,128 @@
-<h1 align="center">Hello 👋 I am Bugra</h1>
-<h3 align="center">Fullstack Developer from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Seyit Buğra Erden</h1>
 
+<h3 align="center">
+  Full Stack Developer | React • Next.js • TypeScript • Node.js • .NET
+</h3>
 
-
-<p align="center"> 📫 How to reach me <strong>seyitbugraerden@gmail.com</strong> </p>
-
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bugraerden/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /></a>
-
+  Software developer from Türkiye focused on building scalable, high-performance web applications.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<div align="center">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AUTOCAD logo"  />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="mondogb"/>
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" alt="node.js"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="node.js"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="node.js"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  
-   
-</div>
-
+<p align="center">
+  <a href="mailto:seyitbugraerden@gmail.com">
+    <img src="https://img.shields.io/badge/Email-seyitbugraerden%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bugraerden/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Buğra%20Erden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-  
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Full Stack Developer** with professional experience in building modern web applications using **React, Next.js, TypeScript, Node.js and .NET technologies**.
+
+Since 2021, I have contributed to projects across **finance, ERP, SaaS, e-commerce, reservation and corporate platforms**, working on both frontend and backend development.
+
+My experience includes:
+
+- Developing high-traffic financial web platforms
+- Building scalable frontend architectures with React and Next.js
+- Developing REST APIs with Node.js and ASP.NET Core
+- Real-time data integrations and SignalR-based applications
+- PostgreSQL and Microsoft SQL Server database integrations
+- Performance, SEO and Core Web Vitals optimization
+- Authentication, authorization and RBAC architectures
+- CI/CD, cloud deployment and production operations
+- End-to-end development from analysis to production
+
+---
+
+## 💼 Selected Experience
+
+I have contributed to software projects and platforms including:
+
+- **İşVarant**
+- **İnfoVarant**
+- **Ziraat FX**
+- **ING Yatırım**
+- **İş Yatırım**
+- **Inveo**
+- **HangiTransfer**
+- ERP / CRM / SaaS applications
+- E-commerce and reservation platforms
+
+My work has involved **real-time financial data flows, API integrations, performance optimization, scalable UI architectures and backend services**.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vue,materialui" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+**Technologies**
+
+`Node.js` • `Express.js` • `ASP.NET Core` • `.NET` • `REST API` • `Swagger / OpenAPI` • `SignalR`
+
+---
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+`PostgreSQL` • `Microsoft SQL Server` • `MongoDB` • `Redis` • `Neon`
+
+---
+
+### ORM & Data Access
+
+`Prisma` • `Drizzle ORM` • `Entity Framework`
+
+---
+
+### Cloud & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker" />
+</p>
+
+`Vercel` • `Cloudflare` • `AWS EC2` • `AWS S3` • `CloudFront` • `CloudWatch`
+
+---
+
+### Testing & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,git,github,postman,vscode" />
+</p>
+
+`Jest` • `React Testing Library` • `Playwright` • `Git` • `Postman`
+
+---
+
+## ⚡ What I Focus On
+
+```text
+Frontend Architecture       ███████████████████
+React / Next.js             ███████████████████
+TypeScript                  ███████████████████
+Node.js                     ██████████████████
+REST API Development        ██████████████████
+.NET / ASP.NET Core         ███████████████
+PostgreSQL / SQL            ████████████████
+Performance Optimization    ██████████████████
+SEO / Core Web Vitals       ██████████████████
+Cloud & Deployment          ███████████████
