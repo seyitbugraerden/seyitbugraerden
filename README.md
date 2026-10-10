@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seyit Buğra Erden</h1>
+<h1 align="center">Hi 👋, I'm Seyit Bugra Erden</h1>
 
 <h3 align="center">
   Full Stack Developer | React • Next.js • TypeScript • Node.js • .NET
